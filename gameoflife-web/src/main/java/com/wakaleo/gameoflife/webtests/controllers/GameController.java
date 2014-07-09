@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
 import com.wakaleo.gameoflife.domain.Universe;
-/*2e test pour pusher une modif sur github*/
+/*3e test pour pusher une modif sur github*/
 
 @Controller
 @RequestMapping("/game")
